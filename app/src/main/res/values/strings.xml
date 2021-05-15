@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Sanam Puri Song</string>
+
+    <string name="no_track_found">No Track Found</string>
+    <string name="info_not_found">Info Not Found</string>
+    <string name="imageview_notification">ImageView Notification</string>
+    <string name="notification_title">Notification Title</string>
+    <string name="play_game">Play Game</string>
+    <string name="share_this_app">Share this App</string>
+    <string name="rate_this_app">Rate this App</string>
+    <string name="about">About</string>
+    <string name="ad">AD</string>
+
+    <string name="panel_sliding_play_pause_button">Panel Sliding Play Pause Button</string>
+    <string name="sliding_panel_image_view">Sliding Panel Image View</string>
+    <string name="skip_prev">Skip Prev</string>
+    <string name="main_play_pause_button">Main Play Pause Button</string>
+    <string name="skip_next">Skip Next</string>
+    <string name="_00_00">00:00</string>
+    <string name="shuffle_on_off">Shuffle On OFf</string>
+    <string name="song_repeatation">Song Repeatation</string>
+    <string name="music_item_image_view">Music Item Image View</string>
+    <string name="share_song">share Song</string>
+    <string name="game_titile">Game Titile</string>
+    <string name="game_thumbnail">Game Thumbnail</string>
+
+
+    <string name="our_store">Our Store</string>
+    <string name="developed_by">Developed By:- </string>
+    <string name="synonian_raj">Synonian Raj</string>
+    <string name="description">Hello Friends, Please Enjoy Our Application and Give us feedback about this app on Play Store. If You found any Error anywhere in this app, Please drop a email on <b>ptaankit@gmail.com</b> don\'t forget to attach screenshot of error. I will fix them as soon as possible. \nKeep Supporting and Enjoy your favourite songs. \n<b>Note:-</b> To listen latest song, just keep updating the app and get awesome musical experience with your favorite singer.</string>
+    <string name="this_app_may_collect_anonymous_usage_data">This app may collect anonymous usage data</string>
+    <string name="don_t_forget_to_follow_on_instagam">Don\'t forget to follow on instagram</string>
+    <!--    All Admob Id-->
+
+    <string name="native_ad_id">ca-app-pub-5399035702215687/7879894798</string>
+    <string name="banner_id">ca-app-pub-5399035702215687/2843384056</string>
+    <string name="intrestial_ad">ca-app-pub-5399035702215687/3393870787</string>
+    <string name="app_id">ca-app-pub-5399035702215687~6520379967</string>
+    <string name="game_banner_ad_id">ca-app-pub-5399035702215687/5277975701</string>
+    <string name="interAd2">ca-app-pub-5399035702215687/4132221478</string>
+    <string name="interAd3">ca-app-pub-5399035702215687/1506058134</string>
+    <string name="thanks_for_your_support">Thanks For Your Support</string>
+
+
+
+</resources>

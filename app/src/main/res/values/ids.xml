@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="title_song_main" type="id" />
+    <item name="curr_dur" type="id" />
+    <item name="seekBar" type="id" />
+    <item name="total_dur" type="id" />
+    <item name="main_pbar" type="id" />
+    <item name="play_pause_main_btn" type="id" />
+    <item name="skip_prev" type="id" />
+    <item name="shuffle_on_off" type="id" />
+    <item name="skip_next" type="id" />
+    <item name="repeat_song" type="id" />
+    <item name="ad_frame" type="id" />
+    <item name="linearLayout" type="id" />
+    <item name="sliding_play_pause_btn" type="id" />
+    <item name="sliding_progress_bar" type="id" />
+    <item name="sliding_song_artist" type="id" />
+    <item name="sliding_song_title" type="id" />
+    <item name="imageView_sliding" type="id" />
+    <item name="panel_layout" type="id" />
+    <item name="share_btn" type="id" />
+    <item name="song_artist_main" type="id" />
+    <item name="song_title_main" type="id" />
+    <item name="image_thumbnail" type="id" />
+    <item name="item_layout" type="id" />
+</resources>
